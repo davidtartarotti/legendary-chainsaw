@@ -1,5 +1,5 @@
 
-body.zoomed { 
+body { 
  transform: scale(3);
 transform-origin: 0px 0px 0px;
 }
