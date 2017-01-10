@@ -1,6 +1,5 @@
-#menu {
-  color:#F3950D;
-}
-.navbar {
-  color:white;
+body {
+   transform: scale(1.1);
+   transform-origin: 10% 10%;
+   
 }
