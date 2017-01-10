@@ -1,8 +1,4 @@
-body {
-   transform: scale(1.1);
-   transform-origin: 10% 10%;
-   
-}
+
 nav.zoomed { 
     zoom: 3; 
     -moz-transform: scale(3); 
