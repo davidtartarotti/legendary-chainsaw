@@ -1,11 +1,11 @@
 
 body { 
- transform: scale(3);
+ transform: scale(2);
 transform-origin: 0px 0px 0px;
 }
 #aufgaben {
  height:400px;
  width:400px;
- transform: scale(-3);
+ transform: scale(0.8);
  transform-origin: 0px 0px 0px;
 }
