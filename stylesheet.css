@@ -4,7 +4,6 @@ body {
 transform-origin: 0px 0px 0px;
 }
 #aufgaben {
- height:1000px;
  height:400px;
  width:400px;
  transform: scale(-3);
