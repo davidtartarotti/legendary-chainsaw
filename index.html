@@ -25,7 +25,7 @@
     </div>
      <div id="navbar" class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-          <li class="active" role="presentation"><a id="defaultOpen" data-toggle="tab"  href="davidtartarotti.github.io/mohi-homepages/#home">Home</a></li>
+          <li role="presentation"><a id="defaultOpen" data-toggle="tab"  href="davidtartarotti.github.io/mohi-homepages/#home">Home</a></li>
           <li role="presentation" ><a data-toggle="tab" href="#Dienstleistungen">Dienstleistungen</a></li>
           <li role="presentation"><a data-toggle="tab" href="#bilder">Bilder</a></li>
           <li role="presentation" ><a data-toggle="tab" href="#kontakt">Kontakt</a></li>
@@ -82,19 +82,7 @@
       
   </div>
  <script>
-function openCity(evt, cityName) {
-    var i, tabcontent, tablinks;
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
-    }
-    tablinks = document.getElementsByClassName("tablinks");
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(" active", "");
-    }
-    document.getElementById(cityName).style.display = "block";
-    evt.currentTarget.className += " active";
-}
+
 
 document.getElementById("defaultOpen").click();
 </script>
