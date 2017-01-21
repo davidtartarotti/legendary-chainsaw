@@ -7,6 +7,10 @@ transform-origin: 0px 0px 0px;
  width:400px;
  transform: scale(0.8);
  transform-origin: 0px 0px 0px;
-
+ margin-left:200px;
 }
 
+.fullf {
+ background-color:#ff8000;
+}
+     
