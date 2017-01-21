@@ -6830,4 +6830,7 @@ button.close {
 
 .tab-pane {
   border: 2px solid #e07000
+  margin-top: -24px;
+  border-radius: 2px;
 }
+
