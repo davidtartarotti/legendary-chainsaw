@@ -6826,3 +6826,8 @@ button.close {
         color: #333;
     }
 }
+
+
+.tab-pane {
+  border: 2px solid #e07000
+}
