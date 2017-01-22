@@ -20,6 +20,9 @@ transform-origin: 0px 0px 0px;
  padding-left:9px;
 }
 #left{
- position:relative;
- float:right;
+color:black;
+}
+img {
+ height:100px;
+
 }
