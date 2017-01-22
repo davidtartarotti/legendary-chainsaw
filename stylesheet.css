@@ -17,6 +17,9 @@ transform-origin: 0px 0px 0px;
 }
      
 #reoso {
-
  padding-left:9px;
+}
+#left{
+ position:relative;
+ float:right;
 }
