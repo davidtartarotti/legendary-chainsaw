@@ -6833,5 +6833,10 @@ button.close {
   border-radius: 2px;
 }
 
-
+button {
+	margin-left: -650px;
+  margin-top: 5px;
+ 
+ 
+}
 
