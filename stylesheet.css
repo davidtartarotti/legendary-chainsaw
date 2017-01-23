@@ -39,6 +39,7 @@ color:black;
   }
     #aufgaben{
     padding-right: 40px;
+     height: 400px;
   }
  .demo {
   transform: scale(0.65);
