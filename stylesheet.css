@@ -30,8 +30,11 @@ color:black;
  padding-left:9px;
 }
 @media screen  and (max-width :950px){
-  nav div {
-   display:inline;
+   nav div {
+   display: -moz-inline-grid;
  }
+  .navbar-brand{
+    display:none;
+  }
 }
 
