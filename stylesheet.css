@@ -46,6 +46,9 @@ color:black;
  height:350px;
  padding-left:9px;
 }
+img {
+	height:300px;
+}
 @media screen  and (max-width :950px){
    nav div {
    display: -moz-inline-grid;
