@@ -36,5 +36,9 @@ color:black;
   .navbar-brand{
     display:none;
   }
+    #aufgaben{
+    padding-right: 40px;
+  }
 }
+
 
