@@ -49,6 +49,18 @@ color:black;
 img {
 	height:300px;
 }
+
+button {
+	margin-left: -650px;
+}
+
+
+
+
+
+
+
+
 @media screen  and (max-width :950px){
    nav div {
    display: -moz-inline-grid;
