@@ -3,6 +3,22 @@ body {
  transform: scale(2);
 transform-origin: 0px 0px 0px;
 }
+.demo {
+		border:1px solid #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+		margin-left:9px;
+		
+	}
+	.demo th {
+		border:1px solid #C0C0C0;
+		padding:5px;
+		background:#F0F0F0;
+	}
+	.demo td {
+		border:1px solid #C0C0C0;
+		padding:5px;
+	}
 #aufgaben {
  width:400px;
  transform: scale(0.8);
