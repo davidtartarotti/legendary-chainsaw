@@ -19,7 +19,7 @@ transform-origin: 0px 0px 0px;
 		border:1px solid #C0C0C0;
 		padding:5px;
 	}
-#aufgaben {
+.aufgaben {
  width:400px;
  transform: scale(0.8);
  transform-origin: 0px 0px 0px;
@@ -68,7 +68,7 @@ button {
   .navbar-brand{
     display:none;
   }
-    #aufgaben{
+    .aufgaben{
     padding-right: 40px;
      height: 400px;
   }
