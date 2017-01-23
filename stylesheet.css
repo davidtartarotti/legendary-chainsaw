@@ -18,6 +18,7 @@ transform-origin: 0px 0px 0px;
      
 #reoso {
  padding-left:9px;
+ width:400px;
 }
 #left{
 color:black;
@@ -44,6 +45,10 @@ color:black;
   transform-origin: 0px 0px 0px;
     
   }
+ #reoso {
+   transform: scale(0.7);
+  transform-origin: 0px 0px 0px;
+ }
 }
 
 
