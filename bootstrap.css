@@ -6839,4 +6839,7 @@ button {
  
  
 }
-
+img {
+	height: 300px;
+padding: 3px 3px 3px 3px;
+}
