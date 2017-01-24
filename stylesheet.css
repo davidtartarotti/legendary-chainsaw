@@ -58,7 +58,7 @@ button {
 }
 
 #pics {
-	height: 1800px;
+	height: 1200px;
   	width: 1000px;
 	
 }
@@ -91,6 +91,7 @@ button {
  }
 #pics {
 	padding-right:600px;
+	height:1800px;
 	}
 	
 }
