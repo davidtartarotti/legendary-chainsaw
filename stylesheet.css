@@ -20,11 +20,11 @@ transform-origin: 0px 0px 0px;
 		padding:5px;
 	}
 .aufgaben {
- width:400px;
+ width:500px;
  transform: scale(0.8);
  transform-origin: 0px 0px 0px;
- height:350px;
- padding-left:9px;
+ height:360px;
+ padding-left:30px;
 }
 
 .fullf {
