@@ -59,7 +59,8 @@ button {
 
 #pics {
 	height: 2000px;
-  width: 1000px;
+  	width: 1000px;
+	
 }
 
 
@@ -90,6 +91,12 @@ button {
    transform: scale(0.7);
   transform-origin: 0px 0px 0px;
  }
+#pics {
+	padding-right:600px;
+	}
+	img {
+		height:250px;
+	}
 }
 
 
