@@ -33,8 +33,9 @@ transform-origin: 0px 0px 0px;
 }
      
 #reoso {
- padding-left:9px;
- width:400px;
+padding-left: 20px;
+width: 400px;
+padding-top: 10px;
 }
 #left{
 color:black;
