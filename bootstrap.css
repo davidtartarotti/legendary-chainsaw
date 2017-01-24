@@ -6848,4 +6848,7 @@ padding: 3px 3px 3px 3px;
 	button {
 		margin-left:3px;
 	}
+	img {
+	height: 250px;
+	}
 }
