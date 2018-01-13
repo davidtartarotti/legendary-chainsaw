@@ -6759,8 +6759,8 @@ button.close {
 
 /* navbar */
 .navbar-default {
-    background-color:  #ff8000;
-    border-color:  #e07000;
+    background-color:  #f10000;
+    border-color:  #d80000;
 }
 /* title */
 .navbar-default .navbar-brand {
@@ -6782,7 +6782,7 @@ button.close {
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
     color:white;
-    background-color: #e07000;
+    background-color: #d80000;
 }
 .navbar-default .navbar-nav > .open > a, 
 .navbar-default .navbar-nav > .open > a:hover, 
@@ -6828,7 +6828,7 @@ button.close {
 }
 
 .tab-pane {
-  border: 2px solid #e07000;
+  border: 2px solid #d80000;
   margin-top: -24px;
   border-radius: 2px;
 }
